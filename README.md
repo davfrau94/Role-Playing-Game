@@ -42,7 +42,7 @@ It’s a lightweight introduction to the logic behind game development using onl
 
 ## 🔗 Live Demo
 
-*Coming soon or available via GitHub Pages*
+[Dragon Repeller - RPG](https://dragonrepelleroleplayinggame.netlify.app/)
 
 ---
 
